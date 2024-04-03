@@ -20,7 +20,7 @@ Berikut beberapa ekstensi yang perlu diaktifkan:<br>
 • `php-intl` ekstensi untuk membuat aplikasi multibahasa;<br>
 • `libcurl` (opsional), jika ingin pakai Curl.<br>
 <br>
-Untuk mengaktifkan ekstentsi tersebut, melalu XAMPP Control Panel`, pada bagian Apache
+Untuk mengaktifkan ekstentsi tersebut, melalu `XAMPP Control Panel`, pada bagian Apache
 klik `Config`->`PHP.ini`
 <br>
 ![img](gambar/1.png)<br>
@@ -38,7 +38,7 @@ dan menggunakan composer. Pada praktikum ini kita menggunakan cara manual.<br>
 • Unduh `Codeigniter` dari website https://codeigniter.com/download <br>
 • Extrak file zip Codeigniter ke direktori `htdocs/Artikel`.<br>
 • Ubah nama direktory `framework-4.x.xx` menjadi `ci4`.<br>
-• Buka browser dengan alamat http://localhost/lab11_ci/ci4/public/ <br>
+• Buka browser dengan alamat http://localhost/Artikel/ci4/public/ <br>
 <br>
 
 ![img](gambar/3.png)
